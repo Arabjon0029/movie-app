@@ -2,7 +2,7 @@ body{
     background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
 }
 .content{
-    min-height: 83.6vh;
+    min-height: 83.666vh;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
